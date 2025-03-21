@@ -1,3 +1,6 @@
 # serverless-init
 
-![App Screenshot](lambda.png) 
+![App Screenshot](images/config.png) 
+
+![App Screenshot](images/size.png) 
+
